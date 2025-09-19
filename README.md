@@ -89,3 +89,18 @@ To run our code, please create an virtual environment and install the following 
 - `create_stylometry_features.py`: the style models 
   - developed based on [LIWC (Boyd et al., 2022)](https://www.liwc.app/static/documents/LIWC-22%20Manual%20-%20Development%20and%20Psychometrics.pdf) and [WritePrint (Abbasi and Chen, 2008)](https://dl.acm.org/doi/10.1145/1344411.1344413).
   - `LIWC2007_English100131.dic` contains the LIWC features.
+
+
+## Citation 
+
+```
+@misc{wang2025catchcanyetllms,
+      title={Catch Me If You Can? Not Yet: LLMs Still Struggle to Imitate the Implicit Writing Styles of Everyday Authors}, 
+      author={Zhengxiang Wang and Nafis Irtiza Tripto and Solha Park and Zhenzhen Li and Jiawei Zhou},
+      year={2025},
+      eprint={2509.14543},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.14543}, 
+}
+```
