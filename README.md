@@ -94,13 +94,25 @@ To run our code, please create an virtual environment and install the following 
 ## Citation 
 
 ```
-@misc{wang2025catchcanyetllms,
-      title={Catch Me If You Can? Not Yet: LLMs Still Struggle to Imitate the Implicit Writing Styles of Everyday Authors}, 
-      author={Zhengxiang Wang and Nafis Irtiza Tripto and Solha Park and Zhenzhen Li and Jiawei Zhou},
-      year={2025},
-      eprint={2509.14543},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2509.14543}, 
+@inproceedings{wang-etal-2025-catch,
+    title = "Catch Me If You Can? Not Yet: {LLM}s Still Struggle to Imitate the Implicit Writing Styles of Everyday Authors",
+    author = "Wang, Zhengxiang  and
+      Tripto, Nafis Irtiza  and
+      Park, Solha  and
+      Li, Zhenzhen  and
+      Zhou, Jiawei",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.532/",
+    doi = "10.18653/v1/2025.findings-emnlp.532",
+    pages = "10040--10055",
+    ISBN = "979-8-89176-335-7"
 }
 ```
